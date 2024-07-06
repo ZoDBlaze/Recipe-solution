@@ -1,0 +1,116 @@
+body {
+  background-color: #FFEDE7;
+}
+
+img {
+  margin: 30px 50px;
+  height: 300px;
+  width: 600px;
+}
+
+h1 {
+  font-family: "Young Serif", serif;
+  font-weight: normal;
+  margin-top: 0;
+  font-size: 40px;
+  margin-left: 50px;
+  margin-bottom: 10px;
+}
+
+h2 {
+  font-family: "Young Serif", serif;
+  margin-left: 50px;
+  color: brown;
+}
+
+ul {
+  font-family: "Outfit", sans-serif;
+  margin-left: 30PX;
+}
+
+ol {
+  font-family: "Outfit", sans-serif;
+  margin-left: 30px;
+}
+
+li {
+  font-family: "Outfit", sans-serif;
+  padding: 5px;
+}
+
+li::marker {
+  color: Brown;
+}
+
+h3 {
+  font-family: "Outfit", sans-serif;
+  color: #872657;
+  margin-left: 50px;
+}
+
+hr {
+  width: 90%;
+}
+
+p {
+  font-family: "Outfit", sans-serif;
+  font-size: 16px;
+  margin-top: 0;
+  padding-top: 0;
+  padding-right: 50px;
+  margin-left: 50px;
+}
+
+table {
+  padding-left: 50px;
+
+}
+
+td {
+  padding: 10px 70px 10px 30px;
+}
+
+.col-1 {
+  padding-left: 30px;
+  margin: 0;
+}
+
+.row {
+  padding-top: 10px;
+  margin: 0;
+  height: 30px;
+}
+
+.col-2 {
+  position: relative;
+  bottom: 40px;
+  left: 300px;
+  margin: 0;
+}
+
+.g {
+  margin: 0;
+}
+
+.main-div {
+  border-top-left-radius: 40px;
+  border-top-right-radius: 40px;
+  border-bottom-right-radius: 40px;
+  border-bottom-left-radius: 40px;
+  margin: 5% 23%;
+  background-color: white;
+  width: 700px;
+  padding-bottom: 30px;
+}
+
+.preperation {
+  border-top-left-radius: 40px;
+  border-top-right-radius: 40px;
+  border-bottom-right-radius: 40px;
+  border-bottom-left-radius: 40px;
+  margin: 0 50px;
+  padding: 10px;
+  padding-left: 0;
+  background-color: #faeef4;
+  margin-top: 40px;
+}
